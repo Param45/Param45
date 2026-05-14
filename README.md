@@ -27,17 +27,17 @@
 class Param:
     name        = "Param Sonawane"
     degree      = "B.Tech CSE @ IIIT Vadodara  [2023 → 2027]"
-    location    = "Chhatrapati Sambhajinagar, Maharashtra 🇮🇳"
+    location    = "Chhatrapati Sambhajinagar, Maharashtra, India"
 
     interests   = [
-        "Federated & Privacy-Preserving Learning",
         "Clinical AI & Medical Decision Systems",
-        "Blockchain & Decentralized Systems",
         "Computer Vision & Image Forensics",
         "Neural Radiance Fields & Generative Models",
+        "Federated & Privacy-Preserving Learning",
+        "Blockchain & Decentralized Systems",
     ]
 
-    currently   = "Shipping TRIAGE.AI — a multi-modal clinical triage system"
+    currently   = "Diving deeper into Geometric Deep Learning and Vision Transformers"
     fun_fact    = "I once wrote a model that detects AI-generated images. Ironic."
 
     def say_hi(self):
